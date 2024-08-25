@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">StepRecorder</string>
+    <string name="general_notification_channel">general_notification_channel</string>
+    <string name="channel_general_name">sgoogle_fit_channel</string>
+    <string name="notification_description">Recording</string>
+
+    <string name="text_daily_steps">Daily steps: %d</string>
+    <string name="text_stop_service">Stop service</string>
+    <string name="text_step_number">Step number: %1$s</string>
+    <string name="text_at">at %1$s</string>
+    <string name="text_stop_record">Stop record</string>
+    <string name="text_start_record">Start record</string>
+    <string name="text_step_track_record">Step track record</string>
+    <string name="text_access_using_google">Access using Google</string>
+    <string name="text_to_step_track">To step track</string>
+    <string name="text_logout">Logout</string>
+    <string name="text_history">Show history records</string>
+    <string name="text_select_date">Select date</string>
+    <string name="text_check_record">Check record</string>
+    <string name="text_step_list">Step List</string>
+    <string name="text_date_not_selected">Date not Selected</string>
+</resources>
